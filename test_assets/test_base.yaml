@@ -1,0 +1,5 @@
+title:
+  selector: //h1/text()
+  selectorType: XPATH
+  multiple: false
+  returnType: STRING
